@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "今日という日を",
+  "base_artist": "Uru",
+  "createdAt": "2026-02-19T06:12:16.295309Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今日という日を",
+      "artist": "Uru",
+      "has_synced": false,
+      "path": "select/pl_01_今日という日を_Uru.txt"
+    }
+  ]
+}
